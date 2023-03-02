@@ -1,0 +1,107 @@
+
+header{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+.top-header{
+    background-color: rgb(252, 251, 251);
+    width: 1450px;
+    height: 60px;
+    position: relative;
+    box-shadow: 40px 40px 0px 17px rgb(rgb(29, 6, 6));
+   
+    
+}
+.profile{
+    background-image: url(images/back.jpg.jpeg);
+    background-size: cover;
+    
+   width: 1450px;
+   height: 700px;
+   position: relative;
+   
+    
+}
+.main{
+   background-color: aqua;
+    width: 941.02px;
+    height: 506.86px;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   margin: auto;
+   border-radius: 10px;
+   
+
+    
+}
+.logo1{
+    background-image: url(images/logo.jpg.jpeg);
+    background-size: cover;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    top: 14px;
+    left: 15px;
+   
+}
+
+.btn{
+   border-color: black;
+   border: 120px;
+   border-width: 30px;
+   border: solid;
+   width: 96px;
+   height: 36px;
+   position: absolute;
+   top: 18px;
+   left: 1056.75px;
+   border-radius: 6px;
+border-width: 1px;
+text-align: center;
+
+}
+.newpost{
+    background-color: rgb(248, 248, 250);
+    align-content: center;
+    width: 64px;
+    height: 19px;
+   
+    top: 27px;
+    left: 1072.75px;
+    
+
+}
+.post{
+    background-image: url("images/post.jpg");
+    background-size: cover;
+    width:370.01px;
+    height:506.86px;
+    top:112.85px;
+    left:169.99px;
+}
+.content{
+    
+    position: absolute;
+   width: 221.48px;
+   height:25.58;
+   top: 90.77px;
+   left: 450.47px;
+}
+.share{
+    border-color: black;
+    border: 120px;
+    border-width: 30px;
+    border: solid;
+    border-radius: 8px;
+    width: 108.04px;
+    height: 38.89px;
+    top: 490.21px;
+    left: 460.98px;
+    position: absolute;
+}
